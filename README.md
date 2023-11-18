@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ilya
 
-I am a Frontend/FullStack Developer with a passion for creating innovative and user-friendly web applications. My skills include proficiency in various web-development technologies such as HTML/CSS, JavaScript, TypeScript, React, Redux, Node.js, Express.js. I have also familiar with many other programming languages and technologies: C++, C#, Unity, Java, Spring, Python, Django and other. I am always eager to learn new technologies and stay up-to-date with industry trends. I am a problem-solver at heart and strive to create elegant solutions for complex challenges.
+I am a Frontend/FullStack Developer with a passion for creating innovative and user-friendly web applications. My skills include proficiency in various web-development technologies such as HTML/CSS, JavaScript, TypeScript, React, Redux, Node.js, Express.js. I am also familiar with many other programming languages and technologies including C++, C#, Unity, Java, Spring, Python, Django and other. I am always eager to learn new technologies and stay up-to-date with industry trends. I am a problem-solver at heart and strive to create elegant solutions for complex challenges.
 
 ## Languages and Technologies
 
